@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.header,
+.logo {
+  display: flex;
+}
+.header,
+.logo {
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-menu {
+  list-style: none;
+  display: flex;
+}
+.nav-link {
+  margin: 10px;
+}
